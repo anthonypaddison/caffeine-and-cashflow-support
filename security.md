@@ -4,8 +4,6 @@ title: Security
 permalink: /security/
 ---
 
-# Security
-
 Do not disclose possible vulnerabilities in public GitHub Issues.
 
 Use [GitHub private vulnerability reporting](https://github.com/anthonypaddison/caffeine-and-cashflow-support/security/advisories/new) where available, or email [caffeineandcashflowsupport@gmail.com](mailto:caffeineandcashflowsupport@gmail.com).

@@ -4,8 +4,6 @@ title: Timed Highlight for Confluence
 permalink: /timed-highlight/
 ---
 
-# Timed Highlight for Confluence
-
 Timed Highlight is a small Confluence Cloud macro that keeps text highlighted through a chosen expiry date and displays it as ordinary text afterwards.
 
 ## Use Timed Highlight
@@ -26,4 +24,3 @@ The highlight remains active through the selected expiry date and appears as ord
 - A page already open across the expiry boundary may need refreshing.
 
 For help, see [Support]({{ '/support/' | relative_url }}). For data-handling information, read the [Timed Highlight privacy policy]({{ '/timed-highlight-privacy/' | relative_url }}).
-

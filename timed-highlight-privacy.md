@@ -4,8 +4,6 @@ title: Timed Highlight for Confluence Privacy Policy
 permalink: /timed-highlight-privacy/
 ---
 
-# Timed Highlight for Confluence Privacy Policy
-
 Last updated: 14 August 2026
 
 This page describes the current technical data handling of Timed Highlight for Confluence.
@@ -32,4 +30,3 @@ Confluence permissions and page history can affect who can access current or ear
 For privacy questions, email [caffeineandcashflowsupport@gmail.com](mailto:caffeineandcashflowsupport@gmail.com). For product help, see [Support]({{ '/support/' | relative_url }}).
 
 This technical policy does not claim GDPR, ISO, SOC, HIPAA or PCI certification, and it is not a formal legal opinion.
-
