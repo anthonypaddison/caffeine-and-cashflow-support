@@ -8,4 +8,5 @@ header_pages:
   - security.md
   - timed-highlight.md
   - timed-highlight-privacy.md
-
+  - page-status-link.md
+  - page-status-link-privacy.md

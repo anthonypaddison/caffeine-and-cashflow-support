@@ -10,3 +10,5 @@ Caffeine and Cashflow publishes small software utilities and Marketplace apps.
 - [Security]({{ '/security/' | relative_url }})
 - [Timed Highlight for Confluence documentation]({{ '/timed-highlight/' | relative_url }})
 - [Timed Highlight for Confluence privacy policy]({{ '/timed-highlight-privacy/' | relative_url }})
+- [Page Status Link for Confluence documentation]({{ '/page-status-link/' | relative_url }})
+- [Page Status Link for Confluence privacy policy]({{ '/page-status-link-privacy/' | relative_url }})
