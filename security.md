@@ -6,7 +6,7 @@ permalink: /security/
 
 Do not disclose possible vulnerabilities in public GitHub Issues.
 
-Use [GitHub private vulnerability reporting](https://github.com/anthonypaddison/caffeine-and-cashflow-support/security/advisories/new) where available, or email [caffeineandcashflowsupport@gmail.com](mailto:caffeineandcashflowsupport@gmail.com).
+Use [GitHub private vulnerability reporting](https://github.com/anthonypaddison/caffeine-and-cashflow-support/security/advisories/new) where available, or email [security@caffeineandcashflow.co.uk](mailto:security@caffeineandcashflow.co.uk).
 
 Please include concise reproduction steps, the affected app and context, observed impact, and whether the behaviour is repeatable. Remove customer content, credentials and personal information from screenshots or logs.
 

@@ -27,6 +27,6 @@ Confluence permissions and page history can affect who can access current or ear
 
 ## Contact
 
-For privacy questions, email [caffeineandcashflowsupport@gmail.com](mailto:caffeineandcashflowsupport@gmail.com). For product help, see [Support]({{ '/support/' | relative_url }}).
+For privacy questions, email [privacy@caffeineandcashflow.co.uk](mailto:privacy@caffeineandcashflow.co.uk). For product help, see [Support]({{ '/support/' | relative_url }}).
 
 This technical policy does not claim GDPR, ISO, SOC, HIPAA or PCI certification, and it is not a formal legal opinion.
