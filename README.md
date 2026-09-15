@@ -5,6 +5,7 @@ Public support, security, documentation and technical privacy information for Ca
 - [Public support site](https://anthonypaddison.github.io/caffeine-and-cashflow-support/)
 - [Support](https://anthonypaddison.github.io/caffeine-and-cashflow-support/support/)
 - [Security](https://anthonypaddison.github.io/caffeine-and-cashflow-support/security/)
+- [Dice & Disorder privacy policy](https://anthonypaddison.github.io/caffeine-and-cashflow-support/dice-and-disorder-privacy/)
 - [Timed Highlight documentation](https://anthonypaddison.github.io/caffeine-and-cashflow-support/timed-highlight/)
 - [Timed Highlight privacy policy](https://anthonypaddison.github.io/caffeine-and-cashflow-support/timed-highlight-privacy/)
 - [Page Status Link documentation](https://anthonypaddison.github.io/caffeine-and-cashflow-support/page-status-link/)
