@@ -1,15 +1,26 @@
 ---
 layout: home
-title: Caffeine and Cashflow
+title: Caffeine & Cashflow
 permalink: /
 ---
 
-Caffeine and Cashflow publishes small software utilities and Marketplace apps.
+Caffeine & Cashflow makes small apps that solve specific problems without
+unnecessary complexity.
+
+## Apps
+
+### [Roll & Reset]({{ '/apps/roll-and-reset/' | relative_url }})
+
+Roll a D20 and get one small, manageable thing to do. No guilt and no streaks.
+
+### [Dice & Disorder]({{ '/apps/dice-and-disorder/' | relative_url }})
+
+A focused tabletop dice roller with physical 3D rolls and a quicker 2D option.
+
+[View all apps and documentation →]({{ '/apps/' | relative_url }})
+
+## Help and policies
 
 - [Support]({{ '/support/' | relative_url }})
 - [Security]({{ '/security/' | relative_url }})
-- [Dice & Disorder privacy policy]({{ '/dice-and-disorder-privacy/' | relative_url }})
-- [Timed Highlight for Confluence documentation]({{ '/timed-highlight/' | relative_url }})
-- [Timed Highlight for Confluence privacy policy]({{ '/timed-highlight-privacy/' | relative_url }})
-- [Page Status Link for Confluence documentation]({{ '/page-status-link/' | relative_url }})
-- [Page Status Link for Confluence privacy policy]({{ '/page-status-link-privacy/' | relative_url }})
+- [Privacy information for each app]({{ '/apps/' | relative_url }})

@@ -1,12 +1,9 @@
-title: Caffeine and Cashflow
-description: Support, documentation, security and privacy information for Caffeine and Cashflow apps.
-url: https://anthonypaddison.github.io
-baseurl: /caffeine-and-cashflow-support
+title: "Caffeine & Cashflow"
+description: Small, useful apps from Caffeine & Cashflow.
+url: https://caffeineandcashflow.co.uk
+baseurl: ""
 theme: minima
 header_pages:
+  - apps.md
   - support.md
   - security.md
-  - timed-highlight.md
-  - timed-highlight-privacy.md
-  - page-status-link.md
-  - page-status-link-privacy.md
